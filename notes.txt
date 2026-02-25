@@ -1,2 +1,3 @@
 Git project
 This file is used to learn git.
+git tracked
